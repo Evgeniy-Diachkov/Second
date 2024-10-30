@@ -1,8 +1,8 @@
 public class Cookie {
     public static void main(String[] args) {
-        byte a = 127;
-        byte b = 126;
-        byte c = 1;
+        byte a = 1;
+        byte b = 6;
+        byte c = 2;
         Byte abc = (byte) (a+b+c);
         System.out.println(abc);
     }
